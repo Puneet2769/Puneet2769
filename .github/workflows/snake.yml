@@ -13,8 +13,6 @@ jobs:
       # Step 1: Checkout the repository
       - name: Checkout the repository
         uses: actions/checkout@v3
-        with:
-          token: ${{ secrets.PAT_TOKEN }}  # Use the Personal Access Token for authentication
 
       # Step 2: Enable debug logging for Git (for troubleshooting)
       - name: Enable debug logging for Git
