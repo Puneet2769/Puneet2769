@@ -81,4 +81,4 @@ jobs:
           target_branch: output  # Target branch where the files will be pushed
           build_dir: dist  # Directory containing the generated SVGs
         env:
-          GITHUB_TOKEN: ${{ secrets.PAT_TOKEN }}
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
