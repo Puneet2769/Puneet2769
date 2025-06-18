@@ -23,8 +23,8 @@ jobs:
       # Step 3: Set Git user identity (to avoid errors when making commits)
       - name: Set Git user identity
         run: |
-          git config user.name "Priyasha-Yadav"
-          git config user.email "priyasha.yadav.cg@gmail.com"
+          git config user.name "Puneet2769"
+          git config user.email "puneet18112006@gmail.com"
 
       # Step 4: Generate GitHub Contribution Snake Animation
       - name: Generate github-contribution-grid-snake.svg
@@ -35,7 +35,7 @@ jobs:
             dist/github-contribution-grid-snake.svg
             dist/github-contribution-grid-snake-dark.svg?palette=github-dark
         env:
-          GITHUB_TOKEN: ${{ secrets.PAT_TOKEN }}  # Use the PAT here for generating the snake SVG
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}  # Use the PAT here for generating the snake SVG
 
       # Step 5: Verify the generated files in the dist directory
       - name: Verify files in dist directory
