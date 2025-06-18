@@ -14,7 +14,7 @@ I am a **Computer Science** student, currently halfway through my degree, I am e
 - 🚀 I’m eager to join new projects.
 - ✔ Feel free to ask me anything! I’m motivated to help others.
 - Outside tech, I enjoy socializing with friends, 🎮 playing video games, 🎵 listening to music.
-- 📫 Reach out to me at: <a href=Puneet18112006@gmail.com">Puneet18112006@gmail.com</a>
+- 📫 Reach out to me at: <a href="Puneet18112006@gmail.com">Puneet18112006@gmail.com</a>
 <br>
 
 <!-- Profile Trophies -->
