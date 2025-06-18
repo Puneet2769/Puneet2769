@@ -99,7 +99,8 @@ I am a **Computer Science** student, currently halfway through my degree, I am e
 <tr>
 <td width="50%" align="center">
     <img src="https://github-readme-stats.vercel.app/api?username=Puneet2769&theme=nightowl&show_icons=true&count_private=true" />
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=Puneet2769&theme=nightowl&hide_border=false" alt="Puneet2769 streak" />
+<!--     <img src="https://github-readme-streak-stats.herokuapp.com/?user=Puneet2769&theme=nightowl&hide_border=false" alt="Puneet2769 streak" /> -->
+    <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=Puneet2769&theme=nightowl" alt="GitHub Streak" /></a>
 <!--     <img src="https://github-readme-streak-stats.herokuapp.com?user=Puneet2769&theme=nightowl" alt="Puneet Streak" /></a> -->
 <!--     ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Puneet2769&theme=nightowl) -->
 </td>
