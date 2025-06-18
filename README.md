@@ -125,6 +125,8 @@ I am a **Computer Science** student, currently halfway through my degree, I am e
 
 <img src="https://github.com/AnderMendoza/AnderMendoza/raw/main/assets/line-neon.gif" width="100%">
 
-![GitHub Contribution Snake Dark](https://raw.githubusercontent.com/Puneet2769/Puneet2769/output/github-contribution-grid-snake-dark.svg)
+<!--![GitHub Contribution Snake Dark](https://raw.githubusercontent.com/Puneet2769/Puneet2769/output/github-contribution-grid-snake-dark.svg)-->
+![Snake animation](https://github.com/Puneet2769/Puneet2769/blob/output/github-contribution-grid-snake.svg)
+
 ![Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=Puneet2769&custom_title=Development%20Activity&hide_border=true&bg_color=0d1117&line=23A401&point=B116A8&color=c9d1d9&title_color=23A401&area=true)
 
