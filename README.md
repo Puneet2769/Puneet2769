@@ -99,9 +99,9 @@ I am a **Computer Science** student, currently halfway through my degree, I am e
 <tr>
 <td width="50%" align="center">
     <img src="https://github-readme-stats.vercel.app/api?username=Puneet2769&theme=nightowl&show_icons=true&count_private=true" />
-    <!--<img src="https://github-readme-streak-stats.herokuapp.com/?user=Puneet2769&theme=nightowl&hide_border=false" alt="Puneet2769 streak" />-->
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=Puneet2769&theme=nightowl&hide_border=false" alt="Puneet2769 streak" />
 <!--     <img src="https://github-readme-streak-stats.herokuapp.com?user=Puneet2769&theme=nightowl" alt="Puneet Streak" /></a> -->
-    ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Puneet2769&theme=nightowl)
+<!--     ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Puneet2769&theme=nightowl) -->
 </td>
 <td width="50%" align="center">
     <img src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=Puneet2769&theme=nightowl&hide_border=false&langs_count=10"/>
