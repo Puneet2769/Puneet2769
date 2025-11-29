@@ -4,7 +4,7 @@
 
 <img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width = 35>&nbsp;***About me***
 
-<img align="right" width=200px alt="Unicorn" src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExNnM5aGVwYjA5azJzNW95MjJuM3NpM3RueWg1NmN6ZzY4MDllZTlvZiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/unQ3IJU2RG7DO/giphy.gif"/>
+<!-- <img align="right" width=200px alt="Unicorn" src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExNnM5aGVwYjA5azJzNW95MjJuM3NpM3RueWg1NmN6ZzY4MDllZTlvZiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/unQ3IJU2RG7DO/giphy.gif"/> -->
 
 I am a **Computer Science** student, currently halfway through my degree, I am expanding my knowledge in both back-end and front-end development. I have experience as a web developer for the College and Hackathon Projects, and my goal is to strengthen my development skills and explore new technologies. I love to learn and build something new, creative and funny.
 - 📚 I’m currently learning ...
